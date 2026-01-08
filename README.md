@@ -39,10 +39,10 @@
 
 ## **Modèle de coûts (estimation pour 10 TB)**
 
-| Poste de coût | AWS FSx (Single-AZ) | S3 Storage Gateway |
+| Poste de coût | AWS FSx (Single-AZ) | S3 Storage Bucket |
 |---------------|----------------------|---------------------|
 | **Stockage principal** | 10 TB | 10 TB |
-| **Instance/Service** | Non | EC2 m5.large : |
+| **Instance/Service** | Non | EC2 m5.large(storage gateway) : |
 | **Cache local** | Non applicable | EBS 2 TB gp3 |
 | **Backups** | Inclus | Lifecycle policies S3 (inclus) |
 | **Coût mensuel estimé** | **≈ 794 $** | **≈ 522 $** |
