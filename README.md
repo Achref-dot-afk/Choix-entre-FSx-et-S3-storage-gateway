@@ -3,7 +3,7 @@
 
 ---
 
-## 🏗 **Architecture et déploiement**
+## **Architecture et déploiement**
 
 | Critère | AWS FSx | AWS S3 Storage Gateway |
 |---------|---------|------------------------|
@@ -15,7 +15,7 @@
 
 ---
 
-## ⚡ **Performances et accès aux données**
+## **Performances et accès aux données**
 
 | Critère | AWS FSx | AWS S3 Storage Gateway |
 |---------|---------|------------------------|
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 **Capacité et évolutivité**
+## **Capacité et évolutivité**
 
 | Critère | AWS FSx | AWS S3 Storage Gateway |
 |---------|---------|------------------------|
@@ -37,7 +37,7 @@
 ---
 
 
-## 💰 **Modèle de coûts (estimation pour 10 TB)**
+## **Modèle de coûts (estimation pour 10 TB)**
 
 | Poste de coût | AWS FSx (Single-AZ) | S3 Storage Gateway |
 |---------------|----------------------|---------------------|
@@ -53,7 +53,7 @@
 > *Région dans l'exemple : Europe (Francfort)*
 
 
-## 🎯 **Recommandation pour votre cas d’usage**
+## **Recommandations **
 
 | Besoin | Recommandation |
 |--------|----------------|
