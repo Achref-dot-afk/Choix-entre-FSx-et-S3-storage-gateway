@@ -53,14 +53,14 @@
 > *Région dans l'exemple : Europe (Francfort)*
 
 
-## **Recommandations **
+## **Recommandations**
 
 | Besoin | Recommandation |
 |--------|----------------|
-| **Performances optimisées pour notre cas d'étude** | ✅ **FSx** (latence faible, débit garanti) |
-| **Coût minimal** | ✅ **Solution avec S3 Storage Gateway** (Le cost dépend fortement de la EC2 Gateway) |
-| **Simplicité opérationnelle** | ✅ **FSx** (AWS gère tout) |
-| **Évolutivité à long terme** | ✅ **S3 Storage Gateway** (illimité via S3) |
+| **Performances optimisées pour notre cas d'étude** |  **FSx** (latence faible, débit garanti) |
+| **Coût minimal** |  **Solution avec S3 Storage Gateway** (Le cost dépend fortement de la EC2 Gateway) |
+| **Simplicité opérationnelle** |  **FSx** (AWS gère tout) |
+| **Évolutivité à long terme** |  **S3 Storage Gateway** (illimité via S3) |
 
 ---
 
